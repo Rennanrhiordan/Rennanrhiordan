@@ -13,7 +13,16 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
   />
 </a>
-
+<a href="https://twitter.com/seu-usuario" target="_blank">
+  <img 
+    align="left" 
+    alt="X" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" 
+  />
+</a>
+<br />
 ---
 
 ### 🤖 Linguagens e Tecnologias
