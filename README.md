@@ -4,7 +4,7 @@
 
 Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Computação. Sou apaixonado por desenvolvimento Java. Além dos estudos, compartilho meu conhecimento através de projetos práticos em programação, explorando desde aplicações web até soluções mais avançadas.
 
-<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+<a href="https://www.linkedin.com/in/rennan-rhiordan/" target="_blank">
   <img 
     align="left" 
     alt="LinkedIn" 
@@ -13,7 +13,7 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
   />
 </a>
-<a href="https://twitter.com/seu-usuario" target="_blank">
+<a href="https://x.com/rhiordanrennan?s=11" target="_blank">
   <img 
     align="left" 
     alt="X" 
@@ -23,6 +23,7 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
   />
 </a>
 <br />
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
