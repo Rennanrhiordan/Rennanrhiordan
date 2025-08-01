@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rennan Rhiordan
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Computação. Sou apaixonado por desenvolvimento Java. Além dos estudos, compartilho meu conhecimento através de projetos práticos em programação, explorando desde aplicações web até soluções mais avançadas.
 
