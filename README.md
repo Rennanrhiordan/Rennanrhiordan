@@ -3,11 +3,21 @@
 **`Desenvolvedora FullStack`**
 
 Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Computação. Sou apaixonado por desenvolvimento Java. Além dos estudos, compartilho meu conhecimento através de projetos práticos em programação, explorando desde aplicações web até soluções mais avançadas.
-### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rennan-rhiordan/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-%20Conecte-se-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" 
+    />
+  </a>
+</p>
+
 
 ---
 
-### 🧰 Languages and Tools
+### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -15,7 +25,7 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.sv" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" />
 <br />
 
 ### 📊 Estatísticas
