@@ -4,17 +4,6 @@
 
 Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Computação. Sou apaixonado por desenvolvimento Java. Além dos estudos, compartilho meu conhecimento através de projetos práticos em programação, explorando desde aplicações web até soluções mais avançadas.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rennan-rhiordan/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" 
-    />
-  </a>
-</p>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
