@@ -1,4 +1,3 @@
-<html lang="pt-BR">
 # 👩🏻‍💻 Rennan Rhiordan
 
 **`Desenvolvedor Back-end`**
@@ -51,4 +50,3 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
     src="https://github-readme-stats.vercel.app/api?username=Rennanrhiordan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-</html>
