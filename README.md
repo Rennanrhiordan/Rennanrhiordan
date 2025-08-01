@@ -15,9 +15,8 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" />
+<img align="left" alt="Aws" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.sv" />
 <br />
-#
 
 ### 📊 Estatísticas
 
