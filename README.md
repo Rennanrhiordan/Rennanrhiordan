@@ -9,7 +9,7 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-%20Conecte-se-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" 
     />
   </a>
 </p>
