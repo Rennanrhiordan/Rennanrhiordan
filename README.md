@@ -10,25 +10,10 @@ Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Compu
     alt="LinkedIn" 
     width="30px" 
     style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg"
+    src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
   />
 </a>
-<p align="left">
-    <a href="https://github.com/Rennanrhiordan?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Rennanrhiordan?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
