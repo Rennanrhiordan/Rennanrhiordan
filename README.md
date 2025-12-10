@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Rennan Rhiordan, atualmente estou focado no curso de Ciências da Computação. Sou apaixonado por desenvolvimento Java. Além dos estudos, compartilho meu conhecimento através de projetos práticos em programação, explorando desde aplicações web até soluções mais avançadas.
+Me chamo Rennan Rhiordan, atualmente estou focado no curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento. Além dos estudos, compartilho meu conhecimento através de projetos práticos em programação, explorando desde aplicações web até soluções mais avançadas.
 
 <a href="https://www.linkedin.com/in/rennan-rhiordan/" target="_blank">
   <img 
