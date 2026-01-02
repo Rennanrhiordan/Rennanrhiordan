@@ -1,52 +1,23 @@
 # 👩🏻‍💻 Rennan Rhiordan
 
-**`Desenvolvedor Back-end`**
+**`Analista de Dados`**
 
-Me chamo Rennan Rhiordan, atualmente estou focado no curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento. Além dos estudos, compartilho meu conhecimento através de projetos práticos em programação, explorando desde aplicações web até soluções mais avançadas.
+Atuo atualmente como Analista de Dados Pleno na Nexus, com foco na análise de performance e suporte a decisões estratégicas. Possuo experiência sólida na condução de análises orientadas a dados, contribuindo para a evolução de resultados e eficiência operacional.
 
-<a href="https://www.linkedin.com/in/rennan-rhiordan/" target="_blank">
-  <img 
-    align="left" 
-    alt="LinkedIn" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-  />
-</a>
-<a href="https://x.com/rhiordanrennan?s=11" target="_blank">
-  <img 
-    align="left" 
-    alt="X" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" 
-  />
-</a>
-<br />
+Tenho atuação em automação de processos, análises preditivas e otimização de indicadores, desenvolvendo soluções analíticas que apoiam a melhoria contínua dos processos de negócio. Utilizo SQL, Python e integrações via APIs para tratamento, análise e disponibilização de grandes volumes de dados de forma estruturada e confiável.
 
----
+Meu trabalho é orientado à transformação de dados em insights acionáveis, apoiando decisões data-driven que geram impacto direto na performance e nos resultados financeiros da organização.
 
-### 🤖 Linguagens e Tecnologias
+## Ferramentas
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" />
-<br />
-<br />
+* Atuo com ferramentas diversas para Análise de Dados no dia a dia, algumas delas são:
 
+    ![My Skills](https://skillicons.dev/icons?i=py,aws,js,mysql&theme=dark)
 
-### 📊 Estatísticas
+* Em estudos rotineiros, tenho projetos e estudos com práticas que me proporcioram contato com:
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Rennanrhiordan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
+    ![My Skills](https://skillicons.dev/icons?i=anaconda,sklearn,selenium,tensorflow,opencv&theme=dark)
+
+* Tenho/tive contato com algumas tecnologias, que detenho conhecimento práticas pontuais em estágios e contratos:
+
+    ![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,postgres&theme=dark)
