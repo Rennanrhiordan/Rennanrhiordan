@@ -8,11 +8,7 @@ Possuo experiência em Java (Spring Boot, Spring Batch, JPA, Hibernate), desenvo
 
 ## Ferramentas
 
-* Atuo com ferramentas diversas para Análise de Dados no dia a dia, algumas delas são:
+* Atuo com ferramentas diversas para Desenvolvimento no dia a dia, algumas delas são:
 
  ![My Skills](https://skillicons.dev/icons?i=java,spring,py,hibernate,js,react,angular,nodejs,postgres,mysql,docker,git,github,aws,rabbitmq&theme=dark)
 
-
-* Tenho/tive contato com algumas tecnologias, que detenho conhecimento práticas pontuais em estágios e contratos:
-
-    ![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,postgres&theme=dark)
