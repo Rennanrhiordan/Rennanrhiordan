@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rennan Rhiordan
 
-**`Analista de Dados`**
+**`Desenvolvedor "Back-end`**
 
 Atuo atualmente como Analista de Dados Pleno na Nexus, com foco na análise de performance e suporte a decisões estratégicas. Possuo experiência sólida na condução de análises orientadas a dados, contribuindo para a evolução de resultados e eficiência operacional.
 
