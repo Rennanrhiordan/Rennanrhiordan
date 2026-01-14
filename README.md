@@ -2,17 +2,15 @@
 
 **`Desenvolvedor Back-end`**
 
-Atuo atualmente como Analista de Dados Pleno na Nexus, com foco na análise de performance e suporte a decisões estratégicas. Possuo experiência sólida na condução de análises orientadas a dados, contribuindo para a evolução de resultados e eficiência operacional.
+Desenvolvedor Java com atuação consolidada no desenvolvimento de aplicações web e sistemas distribuídos, com experiência sólida na construção de soluções completas, desde o front-end até o back-end. Atuo no desenvolvimento de APIs REST e SOAP, integração entre sistemas, aplicações orientadas a microsserviços e ambientes cloud, com foco em escalabilidade, performance e boas práticas de engenharia de software.
 
-Tenho atuação em automação de processos, análises preditivas e otimização de indicadores, desenvolvendo soluções analíticas que apoiam a melhoria contínua dos processos de negócio. Utilizo SQL, Python e integrações via APIs para tratamento, análise e disponibilização de grandes volumes de dados de forma estruturada e confiável.
-
-Meu trabalho é orientado à transformação de dados em insights acionáveis, apoiando decisões data-driven que geram impacto direto na performance e nos resultados financeiros da organização.
+Possuo experiência em Java (Spring Boot, Spring Batch, JPA, Hibernate), desenvolvimento frontend com JavaScript, React e Angular, além de automação de pipelines CI/CD, conteinerização e orquestração em ambientes AWS e Azure, aplicando metodologias ágeis no dia a dia.
 
 ## Ferramentas
 
 * Atuo com ferramentas diversas para Análise de Dados no dia a dia, algumas delas são:
 
-    ![My Skills](https://skillicons.dev/icons?i=py,aws,js,mysql&theme=dark)
+    ![My Skills](https://skillicons.dev/icons?i=java, springboot, py,aws,js,mysql&theme=dark)
 
 * Em estudos rotineiros, tenho projetos e estudos com práticas que me proporcioram contato com:
 
